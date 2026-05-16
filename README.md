@@ -3,14 +3,14 @@
 `Golem of Seismic` is a short premium 3D exploration game concept set inside a monumental stone sanctum.  
 The player controls a silent stone guardian who awakens a network of chambers, inscriptions, and sacred rails tied to the Seismic ecosystem.
 
-This repository currently contains the full pre-production package:
+This repository currently contains the current local game slice and the active design package:
 
+- the current browser-playable `Golem of Seismic` prototype
 - core concept and master GDD
 - lore and narrative delivery
 - room architecture and chamber scripts
 - art direction and concept art prompts
-- vertical slice plan and production task breakdown
-- an earlier browser prototype and local overview pages
+- local overview pages for browsing the project package
 
 ## Start Here
 
@@ -25,11 +25,11 @@ If you want the fastest way into the project, open these first:
 
 There is a local overview page for browsing the design package in one place:
 
-- `http://127.0.0.1:4173/golem-of-seismic-overview.html`
+- `http://127.0.0.1:4174/golem-of-seismic-overview.html`
 
-There is also an older browser prototype from the earlier exploration phase:
+The current playable local build is here:
 
-- `http://127.0.0.1:4173/seismic-platformer.html`
+- `http://127.0.0.1:4174/golem-of-seismic-playable.html`
 
 ## Repository Guide
 
@@ -42,9 +42,9 @@ This repository is currently:
 - strong on concept direction
 - strong on narrative and art framing
 - strong on production planning
-- not yet a real playable 3D build
+- carrying a browser-playable sanctum prototype
 
-So the repo should be read as a serious pre-production package, not as a finished game project.
+So the repo should be read as an active concept-plus-prototype package, not as a finished production build.
 
 ## Key Identity Rules
 
@@ -56,7 +56,7 @@ So the repo should be read as a serious pre-production package, not as a finishe
 
 ## Main Documents
 
+- [golem-of-seismic-playable.html](./golem-of-seismic-playable.html)
 - [GOLEM_OF_SEISMIC_MASTER_GDD.md](./GOLEM_OF_SEISMIC_MASTER_GDD.md)
 - [PROJECT_INDEX.md](./PROJECT_INDEX.md)
 - [golem-of-seismic-overview.html](./golem-of-seismic-overview.html)
-

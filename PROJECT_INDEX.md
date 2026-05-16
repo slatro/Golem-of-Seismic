@@ -4,6 +4,9 @@ This file maps the major documents in the `Golem of Seismic` repository.
 
 ## Core
 
+- [golem-of-seismic-playable.html](./golem-of-seismic-playable.html)
+- [golem-of-seismic-playable.js](./golem-of-seismic-playable.js)
+- [golem-of-seismic-playable.css](./golem-of-seismic-playable.css)
 - [GOLEM_OF_SEISMIC_MASTER_GDD.md](./GOLEM_OF_SEISMIC_MASTER_GDD.md)
 - [GOLEM_OF_SEISMIC_ARCHITECTURE_PLAN.md](./GOLEM_OF_SEISMIC_ARCHITECTURE_PLAN.md)
 - [GOLEM_OF_SEISMIC_ROOM_CATEGORIZATION.md](./GOLEM_OF_SEISMIC_ROOM_CATEGORIZATION.md)
@@ -27,34 +30,12 @@ This file maps the major documents in the `Golem of Seismic` repository.
 - [SEISMIC_GOLEM_FEEL_BIBLE.md](./SEISMIC_GOLEM_FEEL_BIBLE.md)
 - [SEISMIC_GOLEM_CAMERA_AND_AUDIO_PLAN.md](./SEISMIC_GOLEM_CAMERA_AND_AUDIO_PLAN.md)
 
-## Layout & Production
-
-- [SEISMIC_GOLEM_VERTICAL_SLICE_PLAN.md](./SEISMIC_GOLEM_VERTICAL_SLICE_PLAN.md)
-- [SEISMIC_GOLEM_TASK_BREAKDOWN_V1.md](./SEISMIC_GOLEM_TASK_BREAKDOWN_V1.md)
-- [SEISMIC_GOLEM_LEVEL_LAYOUT_V1.md](./SEISMIC_GOLEM_LEVEL_LAYOUT_V1.md)
-- [SEISMIC_GOLEM_LAYOUT_BEATS.md](./SEISMIC_GOLEM_LAYOUT_BEATS.md)
-- [SEISMIC_GOLEM_MVP_PLAN.md](./SEISMIC_GOLEM_MVP_PLAN.md)
-- [SEISMIC_GOLEM_PROTOTYPE_SCENE_PLAN.md](./SEISMIC_GOLEM_PROTOTYPE_SCENE_PLAN.md)
-- [SEISMIC_GOLEM_UNITY_ARCHITECTURE.md](./SEISMIC_GOLEM_UNITY_ARCHITECTURE.md)
-
 ## Pitch & External Facing
 
 - [SEISMIC_GOLEM_ONE_PAGER.md](./SEISMIC_GOLEM_ONE_PAGER.md)
 - [SEISMIC_GOLEM_PITCH_DECK.md](./SEISMIC_GOLEM_PITCH_DECK.md)
 - [SEISMIC_GOLEM_ONE_MINUTE_PITCH.md](./SEISMIC_GOLEM_ONE_MINUTE_PITCH.md)
 - [SEISMIC_GOLEM_STORE_COPY.md](./SEISMIC_GOLEM_STORE_COPY.md)
-
-## Earlier Prototype / Legacy Exploration
-
-- [seismic-platformer.html](./seismic-platformer.html)
-- [seismic-platformer.js](./seismic-platformer.js)
-- [seismic-platformer.css](./seismic-platformer.css)
-- [SEISMIC_GOLEM_COMBAT_SPEC.md](./SEISMIC_GOLEM_COMBAT_SPEC.md)
-- [SEISMIC_GOLEM_ENEMIES_V1.md](./SEISMIC_GOLEM_ENEMIES_V1.md)
-- [SEISMIC_GOLEM_BOSS_QUARRY_KEEPER.md](./SEISMIC_GOLEM_BOSS_QUARRY_KEEPER.md)
-- [SEISMIC_GOLEM_RUN_FLOW.md](./SEISMIC_GOLEM_RUN_FLOW.md)
-- [SEISMIC_GOLEM_GDD.md](./SEISMIC_GOLEM_GDD.md)
-- [SEISMIC_GOLEM_UPGRADES_V1.md](./SEISMIC_GOLEM_UPGRADES_V1.md)
 
 ## Assets & References
 
@@ -63,4 +44,3 @@ This file maps the major documents in the `Golem of Seismic` repository.
 - [golem-vector.svg](./golem-vector.svg)
 - [crystal-reference.png](./crystal-reference.png)
 - [golem-of-seismic-overview.html](./golem-of-seismic-overview.html)
-
